@@ -1,0 +1,2 @@
+# PrimeFactors
+Prime factors kata
